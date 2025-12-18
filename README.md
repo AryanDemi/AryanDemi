@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @AryanDemi
-- 👀 I’m interested in everything except boys😆😆
+  
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 📫 How to reach me: Email: aryanbokde210105@gmail.com
+
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i wonder...
+
 
 <!---
 AryanDemi/AryanDemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
