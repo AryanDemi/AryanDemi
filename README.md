@@ -26,7 +26,7 @@
 
 - 📫 Email: aryanbokde210105@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/aryan-bokde](http://www.linkedin.com/in/aryan-bokde)
-- 📝 Resume: [Download Resume (Google Drive)](https://drive.google.com/file/d/1C74dGEiNcbcQOwHzzoK1YTWu1c8vSkZ3/view?usp=drive_link)
+- 📝 Resume: [Download Resume (Google Drive)](https://drive.google.com/file/d/1xyQ3w_ov1b92QrtKViXLauz9SFq726wx/view?usp=drive_link)
 - 😄 Pronouns: he/him
 
 ---
@@ -35,7 +35,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-ffd343?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
